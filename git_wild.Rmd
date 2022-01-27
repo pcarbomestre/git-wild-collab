@@ -39,8 +39,10 @@ diamond_subset <- diamonds %>%
 ```{r break-it-1}
 words words words words
 conflict
-
-
+sjdnclasjdcn
+asdjnkajsndc
+aksdnclaskdnc
+# comment
 ```
 
 ## STEP 11: And even more merge conflicts!
