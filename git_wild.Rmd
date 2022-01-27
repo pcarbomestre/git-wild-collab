@@ -37,10 +37,8 @@ diamond_subset <- diamonds %>%
 ## STEP 7: Uh oh, merge conflicts!
 
 ```{r break-it-1}
+# comment
 breaking code is fun!
-
-  ## comment comment
-
 ```
 
 ## STEP 11: And even more merge conflicts!
@@ -49,6 +47,5 @@ breaking code is fun!
 code about diamonds
 shiny shiny diamonds
 # random comment about precious gems
-
 
 ```
