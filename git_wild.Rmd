@@ -46,9 +46,9 @@ breaking code is fun!
 ## STEP 11: And even more merge conflicts!
 
 ```{r break-it-2}
-### Both partners - delete this comment, then write some code here
-### to plot, summarize, calculate something simple using the diamonds
-### dataset.
+code about diamonds
+shiny shiny diamonds
+# random comment about precious gems
 
 
 ```
