@@ -25,7 +25,8 @@ library(tidyverse)
 ### ggplot2 package) and create a subset based on filtering, e.g., 
 ### size greater than 1 carat or cut is "Ideal"
 
-
+diamond_subset <- diamonds %>% 
+  filter(cut == "Ideal")
 
 ```
 
