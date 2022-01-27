@@ -44,7 +44,8 @@ breaking code is fun!
 ## STEP 11: And even more merge conflicts!
 
 ```{r break-it-2}
-Breaking code again!
-  I hope this time works
-# comment commnet
+code about diamonds
+shiny shiny diamonds
+# random comment about precious gems
+
 ```
