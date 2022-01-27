@@ -37,12 +37,8 @@ diamond_subset <- diamonds %>%
 ## STEP 7: Uh oh, merge conflicts!
 
 ```{r break-it-1}
-words words words words
-conflict
-sjdnclasjdcn
-asdjnkajsndc
-aksdnclaskdnc
 # comment
+breaking code is fun!
 ```
 
 ## STEP 11: And even more merge conflicts!
